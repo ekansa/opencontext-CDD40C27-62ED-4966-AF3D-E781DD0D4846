@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="CDD40C27-62ED-4966-AF3D-E781DD0D4846" ownedBy="CDD40C27-62ED-4966-AF3D-E781DD0D4846">
+  <arch:name>
+    <arch:string>Erbaba Höyük and Suberde Zooarchaeology</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Erbaba+H%C3%B6y%C3%BCk+and+Suberde+Zooarchaeology</oc:queryVal>
+    <oc:rootPath>/Turkey</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint>37.5545855 31.807243</oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="project root">B59AC3A1-501B-4E86-D143-35275D10C498</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4</arch:docID>
+    <arch:docID type="person" info="Project Participant">8CFA04D7-F9F2-4336-6B14-0057FCB6D97F</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/B59AC3A1-501B-4E86-D143-35275D10C498">
+        <oc:name>Suberde</oc:name>
+        <oc:id>B59AC3A1-501B-4E86-D143-35275D10C498</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+              <oc:name>Turkey</oc:name>
+              <oc:id>1_Global_Spatial</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4">
+        <oc:name>Erbaba Höyük</oc:name>
+        <oc:id>1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+              <oc:name>Turkey</oc:name>
+              <oc:id>1_Global_Spatial</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/8CFA04D7-F9F2-4336-6B14-0057FCB6D97F">
+        <oc:name>Benjamin S. Arbuckle</oc:name>
+        <oc:id>8CFA04D7-F9F2-4336-6B14-0057FCB6D97F</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Faunal data from Erbaba Höyük, Turkey, supplemented by additional data from Suberde</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">    <div>
+        
+        <h4>Introduction</h4>
+        <p>This dataset was created as part of the Benjamin Arbuckle's PhD dissertation entitled: "The Evolution of Sheep and Goat Pastoralism and Social Complexity in Central Anatolia" (Harvard University, 2006). It records faunal remains recovered from Erbaba Höyük in the 1970s with a focus of sheep, goat, cattle and red deer remains. One dataset records detailed information regarding sheep and goat remains, while the other records detailed information regarding the cattle and red deer remains.</p>
+        
+        <h4>Goals of the Project</h4>
+        <p>Record and interpret data describing the animal economy at Neolithic Erbaba Höyük with a focus on sheep and goat pastoralism and early cattle management.</p>
+        
+        <h4>History of the Assemblage</h4>
+        <p>The assemblage was initially sorted in the field by Dexter Perkins in the 1970s during the excavation and 'diagnostic' specimens were transported back to the US. The assemblage was analyzed and partially sorted by Dexter Perkins. Material from some loci is bagged together while in some cases specimens representing specific species or elements were separated and bagged together. This is particularly true for Red deer, small carnivores and rare taxa (e.g., beaver). Most specimens are labeled with their context information or they are in a bag which is labeled; in many cases colored ink was used to label specimens, which is now illegible. The assemblage was stored in a basement and was affected by flooding. Some context information was lost and some of the storage bags decayed under these conditions. The assemblage was eventually recovered and transferred into large plastic storage crates where it is currently stored at Harvard University.</p> 
+        
+        <h4>Methodology</h4>
+        <ul>
+            <li><strong>Collection and recording procedures:</strong> The faunal assemblage was collected via hand-picking. The extent of screening is unknown.</li> 
+
+            <li><strong>Recording system:</strong>
+            Standard zooarchaeologica data were recorded for sheep and goat remains and also for cattle remains.</li>
+        </ul>
+
+        
+        <h4>Potential Applications of Data</h4>
+        
+        <p>[Forthcoming]</p>
+        
+        <h4>Related Publications</h4>
+        <div resource="http://opencontext.org/subjects/1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4">
+            
+            <div id="pub-s-2009-2" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-s-2009-2"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-s-2009-2">
+                    <div property="dcterms:bibliographicCitation"> 
+                        <p class="authors">Arbuckle, B.S., Makarewicz, C.A.</p>
+                        <div>
+                            <div class="pub-date">2009</div>
+                            <div class="ref-title-pub">The early management of cattle <em>Bos taurus</em>. <span class="collection-title">Antiquity </span>83:669-686.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="bibo:uri" href=" http://www.academia.edu/921614/The_early_management_of_cattle_Bos_taurus_in_Neolithic_central_Anatolia ">Article</a>]
+                    </div>
+                </div>
+            </div>
+
+            
+            <div id="pub-s-2009-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-s-2009-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-s-2009-1">
+                    <div property="dcterms:bibliographicCitation"> 
+                        <p class="authors">Arbuckle, B.S., Öztan, A., Gulçur, S.</p>
+                        <div>
+                            <div class="pub-date">2009</div>
+                            <div class="ref-title-pub">The evolution of sheep and goat husbandry in central Anatolia. <span class="collection-title">Anthropozoologica </span>44:129-157.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="bibo:uri" href="http://www.mnhn.fr/museum/front/medias/publication/19965_AZ_44-1-Arbuckle_et_al..pdf">Open Access</a>]
+                        [<a rel="dcterms:identifier" href="http://dx.doi.org/10.5252/az2009n1a6">DOI</a>]
+                    </div>
+                </div>
+            </div>
+
+            
+
+            <div id="pub-s-2008-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-s-2008-1"/>
+                <div typeof="dcterms:BibliographicResource bibo:BookSection" resource="#pub-s-2008-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Arbuckle, B.S.</p>
+                        <div>
+                            <div class="pub-date">2008</div>
+                            <div class="ref-title-pub"> Caprine exploitation at Erbaba Hoyuk: a Pottery Neolithic village in Central Anatolia. In <span class="collection-title"> Archaeozoology of southwestern Asia and adjacent areas VIII. </span>, edited by L.Gourichon and E. Vila.  Pp. 345-365. Travaux de la Maison de l’Orient, Paris.</div>
+                            <div class="ref-end"/>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="bibo:uri" href=" http://www.academia.edu/921640/Caprine_exploitation_at_Erbaba_Hoyuk_A_pottery_Neolithic_village_in_central_Anatolia">Open Access</a>]
+                    </div>
+                </div>
+            </div>
+
+            
+            <div id="pub-d-2006-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-d-2006-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Thesis" resource="#pub-d-2006-1">
+                    <div property="dcterms:bibliographicCitation"> 
+                        <p class="authors">Arbuckle, B.S. </p>
+                        <div>
+                            <div class="pub-date">2006</div>
+                            <div class="ref-title-pub"><span class="collection-title">The Evolution of Sheep and Goat Pastoralism and Social Complexity in Central Anatolia.</span>  
+        PhD Dissertation. Harvard University, Department of Anthropology. Ann Arbor: University Microfilms.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="dcterms:identifier" href="http://www.worldcat.org/oclc/165066200">WorldCat</a>]
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+            
+    </div>
+    </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Erbaba Höyük and Suberde Zooarchaeology: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-05-17</dc:date>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Village</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Mammal remains</dc:subject>
+    <dc:subject>Jacques Bordaz</dc:subject>
+    <dc:subject>Faunal Data</dc:subject>
+    <dc:subject>Central Anatolia</dc:subject>
+    <dc:subject>Animal Domestication</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/8CFA04D7-F9F2-4336-6B14-0057FCB6D97F">Benjamin S. Arbuckle</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/CDD40C27-62ED-4966-AF3D-E781DD0D4846</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CDD40C27-62ED-4966-AF3D-E781DD0D4846">Erbaba Höyük and Suberde Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-05-17T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Erbaba+H%C3%B6y%C3%BCk+and+Suberde+Zooarchaeology%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Zooarchaeology&amp;rft.subject=Turkey&amp;rft.subject=Village&amp;rft.subject=Neolithic&amp;rft.subject=Mammal+remains&amp;rft.subject=Jacques+Bordaz&amp;rft.subject=Faunal+Data&amp;rft.subject=Central+Anatolia&amp;rft.subject=Animal+Domestication&amp;rft.creator=Benjamin+S.+Arbuckle&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2FCDD40C27-62ED-4966-AF3D-E781DD0D4846</oc:coins>
+  </oc:metadata>
+</arch:project>

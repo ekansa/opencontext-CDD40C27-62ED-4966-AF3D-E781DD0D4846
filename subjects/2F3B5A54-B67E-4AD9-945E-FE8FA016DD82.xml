@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="2F3B5A54-B67E-4AD9-945E-FE8FA016DD82" ownedBy="CDD40C27-62ED-4966-AF3D-E781DD0D4846">
+  <arch:name>
+    <arch:string>Strat Group [??]</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Stratum</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/stratum_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_19_4f5b3b5a8</oc:source>
+      </oc:obs_metadata>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">This project focuses on publication of zooarchaeological data. No addition information on excavation strata at this site was provided with this project dataset.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4">
+        <oc:name>Erbaba Höyük</oc:name>
+        <oc:id>1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D16CC350-AD9D-4630-DE60-167F80BB698B">
+        <oc:name>Area [Not indicated]</oc:name>
+        <oc:id>D16CC350-AD9D-4630-DE60-167F80BB698B</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/341F39B0-5B57-4142-CD13-A8EE6B737967">
+        <oc:name>Unit 32(?)</oc:name>
+        <oc:id>341F39B0-5B57-4142-CD13-A8EE6B737967</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FA31ADD0-2D2C-4023-4C97-0282CB1685AF">
+        <oc:name>Unit [Not indicated]</oc:name>
+        <oc:id>FA31ADD0-2D2C-4023-4C97-0282CB1685AF</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E646C07C-E133-419E-4EE9-ECAA22ECB420">
+        <oc:name>Unit 5</oc:name>
+        <oc:id>E646C07C-E133-419E-4EE9-ECAA22ECB420</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F6AFDE37-5197-4583-AC31-316BC876C7D3">
+        <oc:name>Unit 7</oc:name>
+        <oc:id>F6AFDE37-5197-4583-AC31-316BC876C7D3</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EDEE223A-701B-49A4-CEF9-B5911A7B88E4">
+        <oc:name>Unit 9</oc:name>
+        <oc:id>EDEE223A-701B-49A4-CEF9-B5911A7B88E4</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/74C395DE-35D8-441C-01BF-BC0F74D6CB03">
+        <oc:name>Unit 11</oc:name>
+        <oc:id>74C395DE-35D8-441C-01BF-BC0F74D6CB03</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D8A2CA3D-45FA-4480-AF9C-471E4F96C29C">
+        <oc:name>Unit 15</oc:name>
+        <oc:id>D8A2CA3D-45FA-4480-AF9C-471E4F96C29C</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7CF63889-BC9A-4641-6C43-48F425208812">
+        <oc:name>Unit 16</oc:name>
+        <oc:id>7CF63889-BC9A-4641-6C43-48F425208812</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D0342FE6-5C6F-46A4-0D1F-6563F30A69D7">
+        <oc:name>Unit 20</oc:name>
+        <oc:id>D0342FE6-5C6F-46A4-0D1F-6563F30A69D7</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B2818B59-089E-49DD-25A0-81858D4D4F01">
+        <oc:name>Unit 21</oc:name>
+        <oc:id>B2818B59-089E-49DD-25A0-81858D4D4F01</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/34C34F8D-FB5B-4818-2A59-6784B91490AD">
+        <oc:name>Unit 24</oc:name>
+        <oc:id>34C34F8D-FB5B-4818-2A59-6784B91490AD</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EF9E868E-E556-4D62-072E-A0429915D230">
+        <oc:name>Unit 25</oc:name>
+        <oc:id>EF9E868E-E556-4D62-072E-A0429915D230</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/805D17DB-CCE3-4715-C27E-F71678EBD282">
+        <oc:name>Unit 26</oc:name>
+        <oc:id>805D17DB-CCE3-4715-C27E-F71678EBD282</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2796950C-3B02-4C50-94F5-7A56F701A78F">
+        <oc:name>Unit 28</oc:name>
+        <oc:id>2796950C-3B02-4C50-94F5-7A56F701A78F</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9A62B518-FFD4-4281-9A6F-74AAA47985DE">
+        <oc:name>Unit 37</oc:name>
+        <oc:id>9A62B518-FFD4-4281-9A6F-74AAA47985DE</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E057DE61-F946-4090-8135-D8A9D9F183A5">
+        <oc:name>Unit 38</oc:name>
+        <oc:id>E057DE61-F946-4090-8135-D8A9D9F183A5</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/01AE09E7-D20E-4A68-7C53-AB80CE99F818">
+        <oc:name>Unit 39</oc:name>
+        <oc:id>01AE09E7-D20E-4A68-7C53-AB80CE99F818</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ED88FB8B-9620-4A35-09D0-C9992C6905E7">
+        <oc:name>Unit 40</oc:name>
+        <oc:id>ED88FB8B-9620-4A35-09D0-C9992C6905E7</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/32A28AC4-01F7-4073-A4EF-406709354218">
+        <oc:name>Unit 41</oc:name>
+        <oc:id>32A28AC4-01F7-4073-A4EF-406709354218</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F8BE795E-7CD1-4134-D398-DD8DBE8D5D80">
+        <oc:name>Unit 42</oc:name>
+        <oc:id>F8BE795E-7CD1-4134-D398-DD8DBE8D5D80</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/362E7636-5780-4AA7-CA22-5431A7858116">
+        <oc:name>Unit 43</oc:name>
+        <oc:id>362E7636-5780-4AA7-CA22-5431A7858116</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50744C38-0134-48C7-BC9B-9D2519C2126B">
+        <oc:name>Unit 44</oc:name>
+        <oc:id>50744C38-0134-48C7-BC9B-9D2519C2126B</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E75D40B1-AACF-4C62-239A-5CEF6EB3AFC4">
+        <oc:name>Unit 45</oc:name>
+        <oc:id>E75D40B1-AACF-4C62-239A-5CEF6EB3AFC4</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9E3DE490-64E5-4447-C038-58D6F23D3564">
+        <oc:name>Unit 48</oc:name>
+        <oc:id>9E3DE490-64E5-4447-C038-58D6F23D3564</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/57EA2500-7E95-4CC6-706B-A89155E59F2B">
+        <oc:name>Unit 50</oc:name>
+        <oc:id>57EA2500-7E95-4CC6-706B-A89155E59F2B</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B7BE6EC2-61D7-4271-F5E8-7B108005C5B2">
+        <oc:name>Unit 51</oc:name>
+        <oc:id>B7BE6EC2-61D7-4271-F5E8-7B108005C5B2</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C8EE9E05-53D8-41B9-08A8-71278AFEDA0F">
+        <oc:name>Unit 53</oc:name>
+        <oc:id>C8EE9E05-53D8-41B9-08A8-71278AFEDA0F</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/95D158E0-78AF-44D1-5FF7-49BCFD40F047">
+        <oc:name>Unit 54</oc:name>
+        <oc:id>95D158E0-78AF-44D1-5FF7-49BCFD40F047</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/00D05A56-796B-4DA0-44AF-A9F23CBC469E">
+        <oc:name>Unit 56</oc:name>
+        <oc:id>00D05A56-796B-4DA0-44AF-A9F23CBC469E</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5A65D9E7-4E39-429A-C323-711FC3721AF2">
+        <oc:name>Unit 57</oc:name>
+        <oc:id>5A65D9E7-4E39-429A-C323-711FC3721AF2</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/17178480-9106-4A04-C35F-8AD31245156F">
+        <oc:name>Unit 58</oc:name>
+        <oc:id>17178480-9106-4A04-C35F-8AD31245156F</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/455D3AA0-FAF3-4384-60C3-C5179AB1B336">
+        <oc:name>Unit 59</oc:name>
+        <oc:id>455D3AA0-FAF3-4384-60C3-C5179AB1B336</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A1E14717-4838-4067-5A63-510315F887DB">
+        <oc:name>Unit 60</oc:name>
+        <oc:id>A1E14717-4838-4067-5A63-510315F887DB</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0A896A3D-EB55-407D-9ECF-AEAFCBBD9B41">
+        <oc:name>Unit 61</oc:name>
+        <oc:id>0A896A3D-EB55-407D-9ECF-AEAFCBBD9B41</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CF142737-A18C-40E9-830C-C79C80B930E9">
+        <oc:name>Unit 63</oc:name>
+        <oc:id>CF142737-A18C-40E9-830C-C79C80B930E9</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B227C49A-EE16-4F1E-E0D5-3E80390D7A35">
+        <oc:name>Unit 65</oc:name>
+        <oc:id>B227C49A-EE16-4F1E-E0D5-3E80390D7A35</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3A34B163-E257-4253-D88C-D006C8C200DE">
+        <oc:name>Unit 66</oc:name>
+        <oc:id>3A34B163-E257-4253-D88C-D006C8C200DE</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B7170B1F-4425-4C2A-CCC3-D542B8F55ABB">
+        <oc:name>Unit 69</oc:name>
+        <oc:id>B7170B1F-4425-4C2A-CCC3-D542B8F55ABB</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E401FFCF-7050-49C9-9542-3A377C84C0CB">
+        <oc:name>Unit 72</oc:name>
+        <oc:id>E401FFCF-7050-49C9-9542-3A377C84C0CB</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3D4052A7-416D-4295-CA66-DE4116417543">
+        <oc:name>Unit 74</oc:name>
+        <oc:id>3D4052A7-416D-4295-CA66-DE4116417543</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8703CC14-37F3-44B4-B777-A7007AD0BB48">
+        <oc:name>Unit 79</oc:name>
+        <oc:id>8703CC14-37F3-44B4-B777-A7007AD0BB48</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9DDC2343-E423-4DC1-FD73-5724D1306F01">
+        <oc:name>Unit 82</oc:name>
+        <oc:id>9DDC2343-E423-4DC1-FD73-5724D1306F01</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8ABF643B-517A-45EC-E4F7-36C1B34D2DF4">
+        <oc:name>Unit 83</oc:name>
+        <oc:id>8ABF643B-517A-45EC-E4F7-36C1B34D2DF4</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/78605DD8-6B7C-4923-BB17-04A87D4819C1">
+        <oc:name>Unit 86</oc:name>
+        <oc:id>78605DD8-6B7C-4923-BB17-04A87D4819C1</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/485E7D8E-000B-4A1D-C354-E0D346DCE5A0">
+        <oc:name>Unit 93</oc:name>
+        <oc:id>485E7D8E-000B-4A1D-C354-E0D346DCE5A0</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DC4B0B5D-0DBB-423F-49B1-0E149875D853">
+        <oc:name>Unit 94</oc:name>
+        <oc:id>DC4B0B5D-0DBB-423F-49B1-0E149875D853</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/372CDF17-2CF6-4F26-DFF8-9D37F315437F">
+        <oc:name>Unit 95</oc:name>
+        <oc:id>372CDF17-2CF6-4F26-DFF8-9D37F315437F</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F8E8F83E-FC41-4B88-7F31-A26BEB021475">
+        <oc:name>Unit 96</oc:name>
+        <oc:id>F8E8F83E-FC41-4B88-7F31-A26BEB021475</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/275BE0C3-AB6C-4627-BF21-90FCE95DD102">
+        <oc:name>Unit 97</oc:name>
+        <oc:id>275BE0C3-AB6C-4627-BF21-90FCE95DD102</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A81BAD48-928C-4AC1-1016-267C7DF25E9C">
+        <oc:name>Unit 99</oc:name>
+        <oc:id>A81BAD48-928C-4AC1-1016-267C7DF25E9C</oc:id>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Erbaba Höyük and Suberde Zooarchaeology: Strat Group [??] (Stratum)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-05-17</dc:date>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Village</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Mammal remains</dc:subject>
+    <dc:subject>Jacques Bordaz</dc:subject>
+    <dc:subject>Faunal Data</dc:subject>
+    <dc:subject>Central Anatolia</dc:subject>
+    <dc:subject>Animal Domestication</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/8CFA04D7-F9F2-4336-6B14-0057FCB6D97F">Benjamin S. Arbuckle</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/2F3B5A54-B67E-4AD9-945E-FE8FA016DD82</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CDD40C27-62ED-4966-AF3D-E781DD0D4846">Erbaba Höyük and Suberde Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-05-17T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Erbaba+H%C3%B6y%C3%BCk+and+Suberde+Zooarchaeology%3A+Strat+Group+%5B%3F%3F%5D+%28Stratum%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Zooarchaeology&amp;rft.subject=Turkey&amp;rft.subject=Village&amp;rft.subject=Neolithic&amp;rft.subject=Mammal+remains&amp;rft.subject=Jacques+Bordaz&amp;rft.subject=Faunal+Data&amp;rft.subject=Central+Anatolia&amp;rft.subject=Animal+Domestication&amp;rft.creator=Benjamin+S.+Arbuckle&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F2F3B5A54-B67E-4AD9-945E-FE8FA016DD82</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.759171</oc:geo_lat>
+      <oc:geo_long>31.681153</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4">
+        <oc:source_name>Erbaba Höyük</oc:source_name>
+        <oc:source_id>1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-05-18T01:20:48-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/05/18 01:20:48</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,500 BCE - 6,000 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6500</oc:time_start>
+          <oc:time_finish>-6000</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4">
+            <oc:source_name>Erbaba Höyük</oc:source_name>
+            <oc:source_id>1F7FEABA-D8BB-40AE-98BF-4E87401FF8E4</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-02-28T16:21:52-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
